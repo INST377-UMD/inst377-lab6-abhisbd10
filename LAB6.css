@@ -1,0 +1,28 @@
+#map { 
+    height: 500px; 
+    width: 1700px;
+
+}
+
+
+body{
+    background-color: aqua;
+    text-align: center;
+  
+
+
+}
+
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+
+
+}
